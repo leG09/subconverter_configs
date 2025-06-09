@@ -1,0 +1,7 @@
+#xigua
+DOMAIN-SUFFIX,chilledmelon.com
+#奥迪
+IP-CIDR,202.61.195.252/32
+DOMAIN-SUFFIX,1024.media
+#豆瓣
+DOMAIN-SUFFIX,114514.quest
