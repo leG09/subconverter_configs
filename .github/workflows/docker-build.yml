@@ -6,6 +6,7 @@ on:
       - main
     paths-ignore:
       - 'all-online.ini'
+      - 'rule-list/*'
 
 jobs:
   build-and-push:
