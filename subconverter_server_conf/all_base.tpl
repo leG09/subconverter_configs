@@ -41,15 +41,12 @@ dns:
     - system
     - 223.6.6.6
     - 8.8.4.4
-  ipv6: true
+  ipv6: false
   enhanced-mode: fake-ip
   nameserver:
-    - 119.29.29.29
     - 223.5.5.5
-    - tls://223.5.5.5:853
-    - tls://223.6.6.6:853
-    - tls://120.53.53.53
-    - tls://1.12.12.12
+    - 202.103.24.68
+    - 202.103.44.150
   fallback:
     - https://1.0.0.1/dns-query
     - https://public.dns.iij.jp/dns-query
@@ -96,7 +93,7 @@ dns:
       - +.googletagmanager.com
       - +.googletagservices.com
     nameserver-policy:
-      "+*.pec.com.cn": ["fn.190607.xyz:4004", "10.104.0.16", "10.96.114.11"]
+      "+*.pec.com.cn": ["fn.190607.xyz:4004", "10.96.114.11"]
   fake-ip-filter:
     {% include "include/cn-list.txt" %}
     {% include "include/a-list.txt" %}
