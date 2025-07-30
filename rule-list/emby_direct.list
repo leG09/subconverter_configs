@@ -1,9 +1,11 @@
 #xigua
 DOMAIN-SUFFIX,chilledmelon.com
-#奥迪
+#cbao
 IP-CIDR,202.61.195.252/32
 DOMAIN-SUFFIX,1024.media
-#豆瓣
+#db
 DOMAIN-SUFFIX,114514.quest
 #Zox
 DOMAIN-SUFFIX,3767483.xyz
+#ss
+DOMAIN-SUFFIX,sakim.org
