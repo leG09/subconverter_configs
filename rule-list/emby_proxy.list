@@ -2,6 +2,7 @@
 DOMAIN,free.28.al
 #xigua
 DOMAIN-SUFFIX,chilledmelon.com
+IP-CIDR,2.56.98.127/32
 #db
 DOMAIN-SUFFIX,114514.quest
 #Zox
