@@ -3,3 +3,6 @@ IP-CIDR,202.61.195.252/32
 DOMAIN-SUFFIX,1024.media
 #jiuba
 DOMAIN-SUFFIX,misaka.cm
+#fandai
+DOMAIN,sr.chilledmelon.com
+IP-CIDR,157.254.198.39/32
