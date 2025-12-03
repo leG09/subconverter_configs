@@ -1,5 +1,5 @@
 # qidianzhan
-DOMAIN,free.28.al
+DOMAIN,28.al
 #xigua
 DOMAIN-SUFFIX,chilledmelon.com
 IP-CIDR,2.56.98.127/32
@@ -11,3 +11,7 @@ DOMAIN-SUFFIX,3767483.xyz
 DOMAIN-SUFFIX,sakim.org
 #panda
 DOMAIN-SUFFIX,pandtv.de
+#flgm
+DOMAIN-SUFFIX,meowfly.de
+#smlw
+DOMAIN-SUFFIX,jcnf.xyz
