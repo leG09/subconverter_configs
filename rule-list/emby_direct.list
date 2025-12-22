@@ -5,4 +5,6 @@ DOMAIN-SUFFIX,1024.media
 DOMAIN-SUFFIX,misaka.cm
 #fandai
 DOMAIN,cf.xgua.de
+DOMAIN,cf.icgua.de
+DOMAIN,cf.icegua.de
 IP-CIDR,157.254.198.39/32
