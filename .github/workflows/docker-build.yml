@@ -28,7 +28,8 @@ jobs:
       - name: Get subconverter release version
         id: get-version
         run: |
-          TAG=$(curl -s https://api.github.com/repos/tindy2013/subconverter/releases/latest | jq -r .tag_name)
+          # TAG=$(curl -s https://api.github.com/repos/tindy2013/subconverter/releases/latest | jq -r .tag_name)
+          TAG=$(curl -s https://api.github.com/repos/asdlokj1qpi233/subconverter/releases/latest | jq -r .tag_name)
           echo "version=${TAG}" >> $GITHUB_OUTPUT
 
       - name: Build and push Docker image
