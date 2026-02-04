@@ -93,7 +93,7 @@ dns:
       - +.googletagmanager.com
       - +.googletagservices.com
     nameserver-policy:
-      "+*.pec.com.cn": ["fn.190607.xyz:1081","nas.190607.xyz:1081","10.96.114.11"]
+      "+*.pec.com.cn": ["fn.190607.xyz:1081","nas.190607.xyz:1081","10.96.114.11","10.104.0.16","202.103.24.68"]
   fake-ip-filter:
     {% include "include/cn-list.txt" %}
     {% include "include/a-list.txt" %}
