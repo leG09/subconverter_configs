@@ -1,2 +1,5 @@
 DOMAIN-SUFFIX,pec.com.cn
 IP-CIDR,10.96.0.0/16
+DOMAIN-SUFFIX,1234567.com.cn
+DOMAIN-SUFFIX,eastmoney.com
+PROCESS-NAME,Fishing Funds Helper
