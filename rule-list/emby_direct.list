@@ -1,9 +1,9 @@
 #jiuba
 DOMAIN-SUFFIX,misaka.cm
 #cf
-DOMAIN,cf.xgua.de
-DOMAIN,cf.icgua.de
-DOMAIN,cf.icegua.de
+DOMAIN-SUFFIX,xgua.de
+DOMAIN-SUFFIX,icgua.de
+DOMAIN-SUFFIX,icegua.de
 DOMAIN,v.pdtvs.com
 DOMAIN,stlax.sttss.de
 DOMAIN-SUFFIX,goglobe.pro
